@@ -22,7 +22,7 @@ NOTE: Copy a file from opencv folder to your python folder
 	      Python27 -> Lib -> site-packages, and paste cv2.pyd file there 
 3.    Required packages:
 
-	-- Install numpy:
+-- Install numpy
 	
 Open command prompt and change the directory to the path where your Python folder is present, and go to the Scripts folder
 
@@ -34,7 +34,7 @@ To use sports rectification software:
 
 1.	Download or clone the repository from this link –
 
-![alt cmd]https://github.com/suma619/dbit_hack/blob/master/cmdnumpy.png
+![alt cmd](https://github.com/suma619/dbit_hack/blob/master/cmdnumpy.png)
 
 
 2.	Open the project – 
