@@ -1,4 +1,4 @@
-# dbit_hack
+# Sports Movement Rectification
 --This software can be used for learning new skills and movements of any sport activity that is made available in the dataset.
 
 --These files can be downloaded, modified and collaborated with any project which involves detection and rectification of different sports actions. 
@@ -8,7 +8,7 @@
 --With this rectification of actions, the score evaluation of various games can be performed as well as injuries for a user can be avoided.
 
 
-Pre-requirements:
+### Pre-requirements:
 
 1.	Python version 2.7
 -- To install python 2.7 follow this link (for Windows) https://www.python.org/downloads/release/python-2714/
@@ -29,7 +29,7 @@ For eg,    cd C:/Python27/Scripts
 
 Then, install the numpy package by giving the command, 
 	 
-To use sports rectification software:
+### To use sports rectification software:
 
 1.	Download or clone the repository from this link –
 
@@ -46,7 +46,7 @@ To use sports rectification software:
 
 3.	Enter the user id and perform the action in front of camera, wait for the system to rectify the action and give the details about proper action to be performed.
  
-Authors:
+### Authors:
 
 Himanshu Sen
 
