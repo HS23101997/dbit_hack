@@ -34,7 +34,7 @@ To use sports rectification software:
 
 1.	Download or clone the repository from this link –
 
-
+![alt cmd]https://github.com/suma619/dbit_hack/blob/master/cmdnumpy.png
 
 
 2.	Open the project – 
